@@ -7,7 +7,7 @@
 import en_core_web_sm
 nlp = en_core_web_sm.load()
 
-my_string = '"We\'re moving to L.A.!" '
+my_string = '"We\'re moving to L.A.ss!" '
 
 print(my_string)
 doc = nlp(my_string)
