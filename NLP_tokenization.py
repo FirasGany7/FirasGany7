@@ -3,7 +3,7 @@
 
 # If this works, it'd indicate that the problem is related to the way spaCy
 # detects installed packages.
-# this is a new change
+# setting up my invironment: anaconda3\envs\nlp_course\python.exe
 
 import en_core_web_sm
 nlp = en_core_web_sm.load()
